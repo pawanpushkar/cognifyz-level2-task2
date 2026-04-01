@@ -37,7 +37,7 @@ The objective of this task is to:
 
 ## 📸 Output Preview
 
-(Add your screenshot here)
+![Responsive Output](Result3.png)
 
 ---
 
@@ -55,6 +55,7 @@ The objective of this task is to:
 ```plaintext
 level2-task2/
 │── index.html
+│── Result3.png
 │── README.md
 ```
 
@@ -88,7 +89,8 @@ Thanks to **Cognifyz Technologies** for providing this opportunity to learn resp
 
 ## 🔗 LinkedIn Post
 
-(Add your LinkedIn post link here)
+https://www.linkedin.com/posts/pawan-pushkar-8b32a73b4_cognifyz-cognifyztech-cognifyztechnologies-ugcPost-7445218538413522944-2QEo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGUidkcBuEso8AO2qTufjuY5zv3MjncyKf0
+
 
 ---
 
